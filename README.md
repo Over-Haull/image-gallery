@@ -6,6 +6,11 @@ A responsive modern image gallery built with pure HTML and CSS.
 
 [Click here to view it live](https://over-haull.github.io/image-gallery/)
 
+## 📐 Design Reference
+
+See full design spec in [project-specs](./README-DESIGN.md)
+
+
 ## 💡 Features
 
 - Responsive grid layout
